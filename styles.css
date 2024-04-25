@@ -1,6 +1,7 @@
 .container {
     display: flex;
     justify-content: center;
+    margine 30px auto;
   }
   
   .block {
