@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     margine 30px auto;
+    align-self: center;
   }
   
   .block {
